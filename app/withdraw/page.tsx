@@ -1,4 +1,4 @@
-"use client"
+ "use client"
 
 import type React from "react"
 
@@ -88,7 +88,7 @@ const NIGERIAN_BANKS = [
 // Function to validate PAY ID code
 const validatePayIdCode = (code: string) => {
   // The correct PAY ID
-  const CORRECT_PAY_ID = "PG-7474PAYDDT1I"
+  const CORRECT_PAY_ID = "ID-872982TI90"
   return code === CORRECT_PAY_ID
 }
 

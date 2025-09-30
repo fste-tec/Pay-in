@@ -105,7 +105,7 @@ export default function DashboardPage() {
       <div className="bg-white text-red-600 text-xs py-3 px-4 shadow-sm w-full">
         <div className="overflow-hidden whitespace-nowrap">
           <div className="animate-marquee inline-block font-bold">
-            Dear User, Please ensure you conatct support; +2349033506181
+            Dear User, Please ensure you conatct support; +2349068310165
           </div>
         </div>
       </div>

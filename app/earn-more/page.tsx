@@ -50,7 +50,7 @@ export default function EarnMorePage() {
 
           {/* Sign up button */}
           <a
-            href="https://makemoneyeasy.com.ng/Flash%20Pay/"
+            href="https://allinstall.com.ng/intel/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200"
